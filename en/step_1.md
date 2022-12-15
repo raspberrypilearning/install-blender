@@ -5,4 +5,6 @@ Blender is available for Window, MacOS and Linux. Blender is free to use.
 
 ![Blender showing a cube.](images/blender-windows.PNG)
 
+![First install popu.](images/blender-first.PNG)
+
 

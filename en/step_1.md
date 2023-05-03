@@ -1,17 +1,17 @@
-Blender is available for Windows, MacOS and Linux. Blender is free to use. 
+Blender is available for Microsoft Windows, macOS, and Linux. Blender is free to use.
 
-+ Download Blender from [Blender](https://www.blender.org/download/){:target="_blank"}.
-+ Install Blender.
-+ Open Blender. 
-+ A pop will appear. 
++ Download Blender at [www.blender.org/download](https://www.blender.org/download/){:target="_blank"}
++ Install Blender
++ Open Blender
++ A pop-up will appear in Blender
 
-![First install popup.](images/blender-first.png)
+![The 'Quick Setup' pop-up in Blender.](images/blender-first.png)
 
-+ Click outside the popup to close it.
++ Click outside the pop-up to close it
 
-![Blender showing a cube.](images/blender-windows.png)
+![A cube in Blender.](images/blender-windows.png)
 
-You are ready to begin using Blender. 
+You are ready to start to use Blender.
 
 
 
